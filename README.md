@@ -1,4 +1,4 @@
 # demogit
-tutorial for git,github
+tutorial for git,github.
 Author - Rajnikanth
 
